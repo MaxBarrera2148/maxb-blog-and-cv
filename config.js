@@ -1,12 +1,12 @@
 module.exports = {
-  url: 'https://gatsby-starter-blog-and-cv.netlify.app',
+  url: 'https://youthful-boyd-82cecc.netlify.app',
   pathPrefix: '/',
-  title: 'Blog by Marat Dospolov',
+  title: 'Blog by Max Barrera',
   keywords:
-    'account surfer, trello bookmark, trello, productivity, javascript, Marat Dospolov, choosy windows, browser selector',
+    'digital marketing, seo, freelance, marketing',
   subtitle: 'Developer. Optimizer. Learner.',
   copyright: '© 2020 | Cancun, Mexico',
-  disqusShortname: 'dospolov',
+  disqusShortname: 'Max',
   postsPerPage: 20,
   googleAnalyticsId: 'UA-6589522-7',
   menu: [
@@ -15,7 +15,7 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'CV',
+      label: 'Resume',
       path: '/cv'
     }
   ],
@@ -26,12 +26,12 @@ module.exports = {
     contacts: {
       // don't remove fields, just make them empty string ''
       // https://github.com/gatsbyjs/gatsby/issues/2392
-      github: 'dospolov',
-      twitter: 'marat_dospolov',
-      linkedin: 'dospolov',
-      telegram: 'dospolov',
-      instagram: 'dospolov',
-      facebook: 'dospolov',
+      github: 'https://github.com/MaxBarrera2148',
+      twitter: '',
+      linkedin: 'https://www.linkedin.com/in/max-barrera-2a3b41153/',
+      telegram: '',
+      instagram: '',
+      facebook: '',
       email: '',
       rss: '/rss.xml'
     }
