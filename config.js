@@ -5,7 +5,7 @@ module.exports = {
   keywords:
     'account surfer, trello bookmark, trello, productivity, javascript, Marat Dospolov, choosy windows, browser selector',
   subtitle: 'Developer. Optimizer. Learner.',
-  copyright: '© 2020 | Kyiv, Ukraine',
+  copyright: '© 2020 | Cancun, Mexico',
   disqusShortname: 'dospolov',
   postsPerPage: 20,
   googleAnalyticsId: 'UA-6589522-7',
@@ -20,9 +20,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Marat Dospolov',
+    name: 'Max Barrera',
     photo: '/photo.jpg',
-    bio: 'Developer. Optimizer. Learner.',
+    bio: 'Marketer. Optimizer. Learner.',
     contacts: {
       // don't remove fields, just make them empty string ''
       // https://github.com/gatsbyjs/gatsby/issues/2392
