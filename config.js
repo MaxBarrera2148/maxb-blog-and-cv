@@ -4,7 +4,7 @@ module.exports = {
   title: 'Blog by Max Barrera',
   keywords:
     'digital marketing, seo, freelance, marketing',
-  subtitle: 'Developer. Optimizer. Learner.',
+  subtitle: 'Marketer. Optimizer. Learner.',
   copyright: '© 2020 | Cancun, Mexico',
   disqusShortname: 'Max',
   postsPerPage: 20,
@@ -26,13 +26,13 @@ module.exports = {
     contacts: {
       // don't remove fields, just make them empty string ''
       // https://github.com/gatsbyjs/gatsby/issues/2392
-      github: 'https://github.com/MaxBarrera2148',
+      github: 'MaxBarrera2148',
       twitter: '',
-      linkedin: 'https://www.linkedin.com/in/max-barrera-2a3b41153/',
+      linkedin: 'max-barrera-2a3b41153',
       telegram: '',
       instagram: '',
       facebook: '',
-      email: '',
+      email: 'm.a.barrera@gmail.com',
       rss: '/rss.xml'
     }
   }
