@@ -1,12 +1,12 @@
 {
   "header": {
-    "name": "MARAT DOSPOLOV",
-    "position": "JAVASCRIPT TECH LEADER",
+    "name": "MAX BARRERA",
+    "position": "MARKETER",
     "img": {
-      "src": "/photo.jpg",
-      "alt": "Marat Dospolov"
+      "src": "/90X90.PNG",
+      "alt": "Max Barrera"
     },
-    "location": "Ukraine, Kyiv",
+    "location": "Cancun, Mexico",
     "contacts": [
       {
         "type": "telegram",
@@ -15,8 +15,8 @@
       },
       {
         "type": "github",
-        "link": "https://github.com/dospolov",
-        "linkName": "dospolov"
+        "link": "https://github.com/MaxBarrera2148",
+        "linkName": "MaxBarrera2148"
       }
     ]
   },
@@ -45,7 +45,7 @@
       "sourceCode": "https://github.com/dospolov/gatsby-starter-blog-and-cv"
     }
   ],
-  "pitchLine": "My passions are — web-development, cognitive biases and anthropology.",
+  "pitchLine": "My passions are — Marketing, web development, and SEO.",
   "topTech": [
     "react",
     "graphql",
