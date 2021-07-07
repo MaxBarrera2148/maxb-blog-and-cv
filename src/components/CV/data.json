@@ -103,7 +103,7 @@
       "name": "Ant Design",
       "logo": "ant-design.svg",
       "website": "https://ant.design/",
-      "displayInTopList": true
+      "displayInTopList": false
     },
     "fabric": {
       "name": "Fabric UI",
@@ -115,7 +115,7 @@
       "name": "Netlify",
       "logo": "netlify.svg",
       "website": "https://www.netlify.com/",
-      "displayInTopList": false
+      "displayInTopList": true
     }
   },
   "skills": {
