@@ -190,17 +190,19 @@
             "all": [".Net"]
           },
           "achievements": [
-            "Website Audit",
-            "Competitor Analysis",
-            "Keyword Research & Mapping",
-            "Market Research",
-            "Identify Our Target Audience & Develop Data-Based Marketing Personas",
-            "Define Our Value Proposition",
-            "Develop A Content Strategy",
-            "Plan & Maintain A Content Calendar",
-            "Conducted a code review and knowledge sharing",
-            "Communicated with backend team",
-            "Successfully released"
+            "Website audit",
+            "Competitor analysis",
+            "Keyword research & mapping",
+            "Market research",
+            "Identify target audience & develop data-based marketing personas",
+            "Help define our value proposition",
+            "Develop a content strategy",
+            "Plan & maintain content calendar - blog, social media, podcast, etc..",
+            "Implement & manage blog",
+            "Write website copy and blog content",
+            "Design images for blogs, ebooks, landing pages, ads, and other marketing assets"
+            "Implement and configure Analytics, Search Console, Data Studio, GTM, and Google Optimize"
+            "Implement and configure Analytics, Search Console, Data Studio, GTM, and Google Optimize"
           ]
         }
       ]
