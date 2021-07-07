@@ -364,8 +364,13 @@
   "education": [
     {
       "place": "",
-      "period": "",
-      "degree": ""
+      "period": "May 2021",
+      "degree": "Google Ads Display Certification"
+    },
+    {
+      "place": "",
+      "period": "May 2021",
+      "degree": "Advanced Google Analytics"
     }
   ],
   "recommendations": [
