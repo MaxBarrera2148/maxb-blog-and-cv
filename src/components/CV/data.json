@@ -173,29 +173,31 @@
   "experience": [
     {
       "company": {
-        "name": "N-iX",
+        "name": "Blue Coding",
         "logoHeight": 40,
         "logo": "n-ix.svg",
-        "period": "March 2018 - now"
+        "period": "Jan 2020 - April 2021"
       },
       "projects": [
         {
-          "name": "CleverBridge",
+          "name": "",
           "logoHeight": 40,
-          "logo": "cleverbridge.svg",
-          "role": "JavaScript Tech Leader",
-          "description": "All-in-one ecommerce and subscription billing solution for software, SaaS & digital goods.",
+          "logo": "",
+          "role": "Marketing Coordinator",
+          "description": "Staff augmentation and recruiting solutions.",
           "stack": {
             "me": ["React JS", "Redux", "Apollo", "GraphQL", "Webpack", "AntD"],
             "all": [".Net"]
           },
           "achievements": [
-            "Chose and approved tech stack with the client",
-            "Hired and built the team from scratch",
-            "Created frontend architecture",
-            "Regularly negotiated with stakeholders",
-            "Validated module requirements",
-            "Advised other client development teams",
+            "Website Audit",
+            "Competitor Analysis",
+            "Keyword Research & Mapping",
+            "Market Research",
+            "Identify Our Target Audience & Develop Data-Based Marketing Personas",
+            "Define Our Value Proposition",
+            "Develop A Content Strategy",
+            "Plan & Maintain A Content Calendar",
             "Conducted a code review and knowledge sharing",
             "Communicated with backend team",
             "Successfully released"
