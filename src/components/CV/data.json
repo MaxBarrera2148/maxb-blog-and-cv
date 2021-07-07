@@ -365,12 +365,25 @@
     {
       "place": "Google",
       "period": "",
-      "degree": " Advanced Google Analytics, Google Ads Search, Google Ads Display, Google Ads - Measurement, Tag Manager Fundamentals, Fundamentals of Digital Marketing (Google Digital Garage)"
+      "degree": " Advanced Google Analytics, Google Ads Search, Google Ads Display, Google Ads - Measurement, Tag Manager Fundamentals, and Fundamentals of Digital Marketing (Google Digital Garage)"
     },
+
     {
-      "place": "",
-      "period": "May 2021",
-      "degree": "Advanced Google Analytics"
+      "place": "Hubspot",
+      "period": "",
+      "degree": "Inbound, Email Marketing, Social Media Marketing, Inbound Sales, and Inbound Methodology"
+    },
+    
+   {
+      "place": "SEMrush Academy",
+      "period": "",
+      "degree": "Technical SEO, Link Building, Backlink Management, Competitive Analysis & Keyword Research, Mobile SEO, Content Marketing & SEO Fundamentals, Keyword Research, On-page Technical SEO, SEO Fundamentals Exam"
+    },
+    
+    {
+      "place": "Free Code Camp",
+      "period": "",
+      "degree": "Responsive Web Design"
     }
   ],
   "recommendations": [
