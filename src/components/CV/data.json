@@ -9,7 +9,7 @@
     "location": "Cancun, Mexico",
     "contacts": [
       {
-        "type": "LinkedIn",
+        "type": "linkedin",
         "link": "www.linkedin.com/in/maxb-2148",
         "linkName": "maxb-2148"
       },
@@ -45,7 +45,7 @@
       "sourceCode": "https://github.com/dospolov/gatsby-starter-blog-and-cv"
     }
   ],
-  "pitchLine": "My passions are — Marketing, web development, and SEO.",
+  "pitchLine": "My passions are — marketing, web development, and SEO.",
   "topTech": [
     "react",
     "graphql",
@@ -54,7 +54,7 @@
     "reduxsaga",
     "electron",
     "gatsby",
-    "antd"
+    "netlify"
   ],
   "tech": {
     "react": {
