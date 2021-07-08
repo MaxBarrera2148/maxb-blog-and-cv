@@ -1,5 +1,5 @@
 module.exports = {
-  url: 'https://youthful-boyd-82cecc.netlify.app',
+  url: 'https://maxb.netlify.app',
   pathPrefix: '/',
   title: 'Blog by Max Barrera',
   keywords:
